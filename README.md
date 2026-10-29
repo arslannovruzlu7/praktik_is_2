@@ -1,6 +1,6 @@
 # VBIS-Chapter3-SQL
 
-**Ad Soyad:** ______________________ <!-- öz adınızı yazın -->
+**Ad Soyad:** Arslan Novruzlu
 
 **Qrup:** KOM24B
 
